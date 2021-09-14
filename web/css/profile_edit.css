@@ -1,0 +1,58 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+.tagDiv {
+    border-width:0px;
+    position:relative;
+    left:0px;
+    top:0px;
+    width:auto;
+    height:30px;
+    background:inherit;
+    background-color:rgba(242, 242, 242, 1);
+    border-radius:0px;
+    box-shadow:none;
+    display: inline-block;
+    margin: 10px;
+}
+.tagDiv_text {
+    position:relative;
+    width:auto;
+    height:20px;
+    margin-left:10px;
+    top:5px;
+    display:inline-block;
+    background:inherit;
+}
+.tagDiv_del {
+    position: relative;
+    width: 10px;
+    height: 20px;
+    margin-left:10px;
+    margin-right:5px;
+    cursor:pointer;
+    top:5px;
+    display: inline-block;
+}
+
+.content_box{
+    position: relative;
+    width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-top: 20px;
+}
+
+.width-250{
+    width: 200px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.content_title{
+    font-size: 32px;
+    font-weight: 600;
+    font-family: 'Arial Обычный', 'Arial';
+    margin-bottom: 30px;
+}

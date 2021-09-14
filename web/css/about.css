@@ -1,0 +1,55 @@
+.about_content_box{
+    position: relative;
+    width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-top: 20px;
+}
+
+.about_header{
+    width:100%;
+    height:200px;
+}
+
+.about_left_header{
+    display: inline-block;
+    float:left;
+    height:200px;
+}
+
+.about_content_title{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Arial Обычный', 'Arial';
+    margin-bottom: 15px;
+}
+
+.about_content_sub_title{
+    font-size:18px;
+    font-weight: 500;
+    font-family: 'Arial Обычный', 'Arial';
+    margin-bottom: 15px;
+}
+
+.about_content_main_info{
+    position: relative;
+    width: 100%;
+    font-size:15px;
+    font-family: 'Arial Обычный', 'Arial';
+}
+
+.about_content_main_info_title{
+    margin-top:10px;
+    margin-bottom:10px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.about_img{
+    margin-left:50px;
+    width:200px;
+    height:200px;
+    float:right;
+    position:relative;
+    display:inline-block;
+}

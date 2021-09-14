@@ -1,0 +1,7 @@
+#### BUILD PATHS ####
+target/
+out/
+#### IDEA ####
+.idea
+*.iml
+*.ipr

@@ -1,0 +1,80 @@
+.image_box{
+    width: 100%;
+    height: 400px;
+    background-image: url('../img/bg-main-page1.png');
+    background-size:cover;
+    position:relative;
+    text-align: center;
+}
+
+.last_vacancies{
+    position: relative;
+    margin-top: 30px;
+    width:95%;
+    margin-left:2.5%;
+}
+
+.last_vacancies_main_title{
+    position: relative;
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: 'Arial Обычный', 'Arial';
+    font-weight: 500;
+}
+
+.last_vacancies_left_box{
+    width: 45%;
+    margin-right: 10%;
+    display: inline-block;
+    background-color: lightgray;
+}
+
+.last_vacancies_right_box{
+    width: 45%;
+    float: right;
+    display: inline-block;
+    background-color: lightgray;
+}
+
+.last_vacancies_title{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.last_vacancies_text{
+    font-size: 14px;
+    font-weight: 200;
+}
+
+.last_vacancies_box{
+    width:97%;
+    margin-left: 3%;
+    height: 50px;
+    margin-top: 10px;
+}
+
+.search_input_field{
+    padding: 8px;
+    border: 1px solid #ccc;
+    width: 300px;
+    position:relative;
+    height: 40px;
+    display: inline-block;
+}
+
+.search-select-field{
+    position: relative;
+    border: 1px solid #ccc;
+    width: 150px;
+    margin-left: 5px;
+    display:inline-block;
+    height: 40px;
+}
+
+.margin-top20{
+    margin-top:20px;
+}
+
+.search-select-field select{
+    display: none;
+}
